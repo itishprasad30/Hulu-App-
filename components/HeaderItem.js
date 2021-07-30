@@ -10,3 +10,4 @@ function HeaderItem({ Icon, title }) {
 }
 
 export default HeaderItem;
+// icons of header

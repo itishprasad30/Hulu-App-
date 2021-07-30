@@ -26,3 +26,4 @@ function Nav() {
 }
 
 export default Nav;
+// navigation bar component

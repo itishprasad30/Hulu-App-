@@ -31,3 +31,4 @@ function Thumbline({ result }) {
 }
 
 export default Thumbline;
+// img components

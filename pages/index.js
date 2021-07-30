@@ -37,3 +37,5 @@ export async function getServerSideProps(context) {
     },
   };
 }
+
+// This is the main page which Loaded when first user comes to this

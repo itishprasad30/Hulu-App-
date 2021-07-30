@@ -3,4 +3,6 @@ module.exports = {
     tailwindcss: {},
     autoprefixer: {},
   },
-}
+};
+
+// automatic add with tailwind

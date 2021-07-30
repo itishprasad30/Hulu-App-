@@ -1,5 +1,5 @@
 const API_KEY = process.env.API_KEY;
-
+// from the Tmdb movie database
 export default {
   fetchTrending: {
     title: "Trending",
